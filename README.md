@@ -1,13 +1,17 @@
 # Netflix Website Clone 📽️
-A netflix website clone build with reactjs.
+A netflix website clone build with reactjs and firebase.
 
 # 💡About this project 
 
 ......
 
 ## ⚡Technologies
-
 * `REACT JS`
+
+## 🛠 Dependecies
+* `FIREBASE`
+* `REACT ROUTER`
+* `REACT TOASTIFY`
 
 ## 🚦 Running the Project
 
