@@ -2,14 +2,14 @@
 A netflix website clone build with reactjs and firebase.
 
 # 💡About this project 
+I built netflix clone project with React.js and Firebase. In this project as you know most popular movie website in the world. This platform is so useful, for instance there is a easy sign up and sign in page and then there are some movies category. If you want to examine some movie, you can click one movie and will route that movie offical fragment. Did you see it's so easy to use that website :) Next time I'll develop this website and add lots of features.
 
-......
 
 ## ⚡Technologies
 * `REACT JS`
+* `FIREBASE`
 
 ## 🛠 Dependecies
-* `FIREBASE`
 * `REACT ROUTER`
 * `REACT TOASTIFY`
 
